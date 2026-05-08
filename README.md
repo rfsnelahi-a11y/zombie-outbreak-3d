@@ -5,3 +5,5 @@ The game features gun-based combat, melee sword attacks, and a plantable time bo
 Advanced gameplay elements such as a Corpse Tactics System, dual-player switching, teleportation ability, and an optional cheat mode add depth and variation to the experience.
 
 All entities including enemies, bullets, bombs, and interactions are procedurally handled, demonstrating core concepts of 3D transformations, camera projection, collision detection, and time based game logic. The game ends when the player's health reaches zero.
+
+Copyright (c) 2026 MD RAFSAN ELAHI. All Rights Reserved.Unauthorized copying or distribution of this file, via any medium, is strictly prohibited.
